@@ -7,8 +7,18 @@
 
 中国国家数据中心：http://data.stats.gov.cn/
 
+天池：https://tianchi.aliyun.com/dataset
+
+搜狗实验室：http://www.sogou.com/labs/resource/list_pingce.php
+
+DC竞赛：https://www.pkbigdata.com/common/cmptIndex.html
+
+DF竞赛：https://www.datafountain.cn/datasets
+
 ## 国外
 
 Librec：https://www.librec.net/
 
 MovieLens：https://movielens.org/
+
+kaggle：https://www.kaggle.com
